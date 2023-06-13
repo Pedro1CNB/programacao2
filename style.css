@@ -1,3 +1,4 @@
 body {background-color: silver;}
 .para{text-align: center}
 .titulo{text-align: center;}
+.head{background-color:#4682B4;padding:2px; display:flex;justify-content:center; margin:0px}
