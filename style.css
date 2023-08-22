@@ -1,4 +1,17 @@
-body{background-color: rgb(221, 204, 204);}
-.para{text-align:center}
-.titulo{text-align:center;}
-.head{background-color:#4682B4;padding:2px; display:flex;justify-content:center; margin:0px}
+*{margin: 0; padding: 0;}
+body{font-family: 'Chilanka', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;}
+.para{text-align:center; font-size:50px}
+.titulo{text-align:center; padding: 24px 0;}
+.head{background-color:#32a53c;display:flex;justify-content:space-around;padding:24px;}
+.cabecalho-itens{display: inline-block;margin:0 20px; font-size: 20px}
+.logo{width:10%;}
+.hamburguer{width:25%}
+.tudo{background-image: linear-gradient(#32a53c,#FFFFFF);color: rgb(34, 31, 31); display: flex;justify-content: center;align-items: center; padding:24px 0}
+.div-tudo{width:35%}
+.preco{width:25%;}
+.preco-div{text-align:center;}
+.para2{color:#1c1f1c;text-align:center; font-size:50px}
+.rodape{background-color:black; text-align: center}
+.rodape-img{height:80px; padding:12px 0}
